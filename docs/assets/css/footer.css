@@ -4,7 +4,7 @@ footer {
 	right:0;
 	bottom:0;
 	width:100%;
-	background:#1a222c;
+	background:#2059a0;
 	padding:10px 0;
 	margin-top:80px;
 	text-align:center;
@@ -12,6 +12,6 @@ footer {
 }
 
 footer a {
-	color: #42b983;
+	color: #f0e516;
 	font-weight: 600;
 }
