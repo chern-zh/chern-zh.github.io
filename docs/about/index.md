@@ -2,7 +2,7 @@
 title: About
 layout: info
 toc: false
-edit: 2019-11-28
+edit: 2017-11-17
 commentable: false
 protected: true
 mathjax: true
@@ -10,21 +10,23 @@ mathjax: true
 
 # Me
 
-My name is Yingkai Liu ([Google Scholar](https://scholar.google.co.kr/citations?user=NIySL50AAAAJ&hl=en)). I am currently a graduate student at Yeshiva University, US. I major in Physics. 
+My name is Zhen Chern.  
 
-With more understanding of physics, I found the theory used to describe a phenomenon is more and more elegant but in the same time complicated. I was happy about the differential equations, impressed by linear algebra, struck by group theory and now mesmerized by topology and differential geometry. **I am aware that physics requires much more than *just* mathematics. In the same time I believe that with more mathematics there will be deeper physics.** 
+待编辑 **待编辑** 
 
 As for my current interest, on my CV I wrote:
 
-> Learning Mathematical tools that explain the topological aspects of materials. Understanding the phenomenon of integer discreetness arising from continuous symmetry. Describing and discovering topological quantum systems. Learning through examples and models, especially coding and seeing the numerical result.
+> 待编辑
 
-Here is my [CV](https://yk-liu.github.io/about/CV-of-Liu-Yingkai.pdf) (last update: 2019-11-28).
+Here is my [CV](https://chern-zh.github.io/about/cv-of-zhen-chern.pdf) (last update: 2024-04-24).
 
 # This Site
 
-When I started writing on this website, I wanted to share notes on what I have learned. I benefited a lot from many insightful blogs and now I have something to give back. Watching my notes published on websites also gives me motivation and a strange consolation. 
-
-I also realized that this website can be used as a billboard of my professional backgrounds. This is a great proof for what I have learned.
+这个网站用来记录我的一些个人学习记录和项目进度，包括：
+1. 街机游戏恐龙快打各种改版
+2. swift与swiftUI学习进度与记录
+3. 一些读过的有价值、需要值得反复思考并实践的文章
+4. 其他一些随笔记录
 
 # Posts
 
@@ -42,7 +44,7 @@ The posts are at different status.
 
 # Sources
 
-This website (source code [here](https://github.com/yk-liu/yk-liu.github.io)) uses these sources:
+This website (source code [here](https://github.com/chern-zh/chern-zh.github.io)) uses these sources:
 
 | Module                                                       | Mainly used in                                  | License/ TOS                                                 |
 | ------------------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------ |
@@ -60,24 +62,22 @@ This website (source code [here](https://github.com/yk-liu/yk-liu.github.io)) us
 | [404 T-rex game](https://github.com/wayou/t-rex-runner)      | 404 page                                        | from [Chromium source code](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package), [license](https://chromium.googlesource.com/chromium/src.git/+/master/LICENSE) |
 | [Encryption](https://github.com/robinmoisson/staticrypt)     | Secret Pages                                    | [MIT](http://opensource.org/licenses/MIT)                    |
 
-Additional licensing information can be found [here](https://github.com/yk-liu/yk-liu.github.io/blob/master/LICENSE.md).
+Additional licensing information can be found [here](https://github.com/chern-zh/chern-zh.github.io).
 
 I mainly use [Typora](https://www.typora.io) to write my post.
 
 # The Name
 
-I named this website "A Finger Pointing to the Moon", as in the Buddhism story:
+I named this website "Singing it the Rain", :
 
-> **佛告阿难。汝等尚以缘心听法。此法亦缘。非得法性。**
+> **微笑**
 >
-> **若复观指以为月体。此人岂唯亡失月轮。亦亡其指。何以故。以所标指为明月故。**
+> **积极**
 >
-> **岂唯亡指。亦复不识明之与暗。何以故。即以指体。为月明性。明暗二性。无所了故。**
+> **乐观。**
 
-Which has been beautifully put by Bruce Lee:
 
->It's like a finger pointing away to the moon. Don't concentrate on the finger or you will all that heavenly glory.
 
 # Contact
 
-The best way to reach me is via email: $water$ _@_ $mail.nankai.edu.cn$
+The best way to reach me is via email: $chern6998$_@_$163.com$
