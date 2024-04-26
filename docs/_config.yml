@@ -30,10 +30,10 @@ twitter_username: singingintherain
 github_username:  chern-zh
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
-
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -53,3 +53,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+# show_downloads: "false"
+# google_analytics: [Your Google Analytics tracking ID]
