@@ -1,28 +1,28 @@
 # Site settings
-title: Pointing to the Moon
-description: Blog of Yingkai Liu
+title: Singing in the Rain
+description: Blog of Zhen Chern
 baseurl: "" 
-url: "https://yk-liu.github.io" 
+url: "https://chern-zh.github.io" 
 
 # GitHub User settings
-username: Yingkai Liu
-github_username: yk-liu
-user_description: A Physics graduate student with a broad interest
-user_title: Physics PhD student
-email: yingkai.liu@outlook.com
+username: Zhen Chern
+github_username: chern-zh
+user_description: A Lost Man
+user_title: chern
+email: chern6998@163.com
 
 # Blog Author settings
 author:
-  name:           Yingkai Liu
+  name:           Zhen Chen
   picture:        
-  email:          yingkai.liu@outlook.com
+  email:          chern6998@163.com
   description:    I'm a Physics graduate student with a broad interest.
   twitter:
   facebook:
-  github:         https://github.com/yk-liu
+  github:         https://github.com/chern-zh
   linkedin:
   # # If you're forking this site, make sure you delete this entry!
-  clustrmap:      MlqUzlcZFdHetSQuxml5oHyt9RwVjZrsGbvyaRpMwgU 
+  # clustrmap:      MlqUzlcZFdHetSQuxml5oHyt9RwVjZrsGbvyaRpMwgU 
   # If you're forking this site, make sure you delete this entry!
 
 
